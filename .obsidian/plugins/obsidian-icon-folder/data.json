@@ -33,7 +33,6 @@
     "lucideIconPackType": "native",
     "debugMode": false
   },
-  "Notes": "LiPencil",
   "Journal/02 - Weekly": "LiCalendarX",
   "Journal/03 - Monthly": "LiCalendarX",
   "Journal/04 - Yearly": "LiCalendarX",
@@ -51,6 +50,5 @@
   "Notes/Radios.md": "LiRadioTower",
   "Notes/Arduino.md": "LiCircuitBoard",
   "Notes/Github.md": "LiGithub",
-  "Notes/The Bible.md": "LiBookOpen",
-  "Notes/Aviation Weather.md": "LiCloud"
+  "Notes/The Bible.md": "LiBookOpen"
 }
