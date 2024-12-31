@@ -83,7 +83,7 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ## 📫 Contact
 For questions or feedback, reach out via:
 - **GitHub Issues**: [Submit an issue](https://github.com/tinkernerd/TinkerAvDocs/issues)
-- **Email**: me@tinkernerd.dev
+- **Email**: howdy@tinkernerd.dev
 
 ---
 
