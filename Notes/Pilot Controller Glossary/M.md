@@ -96,7 +96,7 @@ MARKER BEACON- An electronic navigation facility transmitting a 75 MHz vertical 
 
 [[O#^JE9VVEVSIE1BUktF|(See OUTER MARKER.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE1BUktFUiBCRUFD
 
@@ -130,7 +130,7 @@ MAXIMUM AUTHORIZED ALTITUDE- A published altitude representing the maximum usabl
 
 [[P#^JFBBTi1QQU4|(See PAN-PAN.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -262,7 +262,7 @@ MIA-
 
 MICROBURST- A small downburst with outbursts of damaging winds extending 2.5 miles or less. In spite of its small horizontal scale, an intense microburst could induce wind speeds as high as 150 knots
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -298,7 +298,7 @@ MIDDLE MARKER- A marker beacon that defines a point along the glideslope of an I
 
 [[M#^JE1BUktFUiBCRUFD|(See MARKER BEACON.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE1JRERMRSBNQVJL
 
@@ -382,7 +382,7 @@ MINIMUM EN ROUTE IFR ALTITUDE (MEA)- The lowest published altitude between radio
 
 [[0095 Ifr altitudes|(Refer to 14 CFR Part 95.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE1JTklNVU0gRU4g
 
@@ -398,7 +398,7 @@ MINIMUM FRICTION LEVEL- The friction level specified in AC 150/5320-12, Measurem
 
 MINIMUM FUEL- Indicates that an aircraft's fuel supply has reached a state where, upon reaching the destination, it can accept little or no delay. This is not an emergency situation but merely indicates an emergency situation is possible should any undue delay occur.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -465,7 +465,7 @@ MINIMUM SAFE ALTITUDE (MSA)-
 
 MINIMUM SAFE ALTITUDE WARNING (MSAW)- A function of the EAS and STARS computer that aids the controller by alerting him/her when a tracked Mode C equipped aircraft is below or is predicted by the computer to go below a predetermined minimum safe altitude.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE1JTklNVU0gU0FG
 
@@ -493,7 +493,7 @@ MINIMUMS- Weather condition requirements established for a particular operation 
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE1JTklNVU1T
 
@@ -503,7 +503,7 @@ MINIMUMS- Weather condition requirements established for a particular operation 
 
 MINIMUM VECTORING ALTITUDE (MVA)- The lowest MSL altitude at which an IFR aircraft will be vectored by a radar controller, except as otherwise authorized for radar approaches, departures, and missed approaches. The altitude meets IFR obstacle clearance criteria. It may be lower than the published MEA along an airway or J-route segment. It may be utilized for radar vectoring only upon the controller's determination that an adequate radar return is being received from the aircraft being controlled. Charts depicting minimum vectoring altitudes are normally available only to the controllers and not to pilots.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE1JTklNVU0gVkVD
 
@@ -607,7 +607,7 @@ MODE- The letter or number assigned to a specific pulse spacing of radio signals
 
 [[M#^JE1PREUgW0lDQU9d|(See ICAO term MODE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE1PREUgW0lDQU9d
 
@@ -663,7 +663,7 @@ MOSAIC/MULTI-SENSOR MODE- Accepts positional data from multiple radar or ADS-B s
 
 MOUNTAIN WAVE- Mountain waves occur when air is being blown over a mountain range or even the ridge of a sharp bluff area. As the air hits the upwind side of the range, it starts to climb, thus creating what is generally a smooth updraft which turns into a turbulent downdraft as the air passes the crest of the ridge. Mountain waves can cause significant fluctuations in airspeed and altitude with or without associated turbulence.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 

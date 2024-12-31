@@ -317,7 +317,7 @@ FLIGHT CHECK- A call sign prefix used by FAA aircraft engaged in flight inspecti
 
 [[F#^JEZMSUdIVCBJTlNQ|(See FLIGHT INSPECTION.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEZMSUdIVCBDSEVD
 
@@ -428,7 +428,7 @@ FLIGHT PLAN- Specified information relating to the intended flight of an aircraf
 
 [[F#^JEZJTEVE|(See FILED.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 

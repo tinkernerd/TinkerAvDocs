@@ -82,7 +82,7 @@ Types of icing are:
 
 ***IDENT-* ^JElERU5U**A request for a pilot to activate the aircraft transponder identification feature. This will help the controller to confirm an aircraft identity or to identify an aircraft.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -148,7 +148,7 @@ IFR DEPARTURE PROCEDURE-
 
 [[I#^JElGUiBUQUtFT0ZG|(See IFR TAKEOFF MINIMUMS AND DEPARTURE PROCEDURES.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -334,7 +334,7 @@ INNER MARKER- A marker beacon used with an ILS (CAT II) precision approach locat
 
 [[I#^JElOU1RSVU1FTlQg|(See INSTRUMENT LANDING SYSTEM.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JElOTkVSIE1BUktF
 
@@ -393,7 +393,7 @@ INSTRUMENT APPROACH PROCEDURE- A series of predetermined maneuvers for the order
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 <!-- -->
 
@@ -433,7 +433,7 @@ INSTRUMENT DEPARTURE PROCEDURE (DP)- A preplanned instrument flight rule (IFR) d
 
 [[S#^JFNUQU5EQVJEIElO|(See STANDARD INSTRUMENT DEPARTURE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JElOU1RSVU1FTlQg
 
@@ -459,7 +459,7 @@ INSTRUMENT FLIGHT RULES (IFR)- Rules governing the procedures for conducting ins
 
 [[I#^JElOU1RSVU1FTlQg|(See ICAO term INSTRUMENT FLIGHT RULES.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JElOU1RSVU1FTlQg
 
@@ -607,7 +607,7 @@ INTERROGATOR- The ground-based surveillance radar beacon transmitter-receiver, w
 
 [[T#^JFRSQU5TUE9OREVS|(See TRANSPONDER.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JElOVEVSUk9HQVRP
 

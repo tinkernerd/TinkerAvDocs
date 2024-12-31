@@ -166,7 +166,7 @@ DEPARTURE CONTROL- A function of an approach control facility providing air traf
 
 [[A#^JEFQUFJPQUNIIENP|(See APPROACH CONTROL FACILITY.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -310,7 +310,7 @@ DISCRETE CODE- As used in the Air Traffic Control Radar Beacon System (ATCRBS), 
 
 [[R#^JFJBREFS|(See RADAR.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JERJU0NSRVRFIENP
 
@@ -332,7 +332,7 @@ DISPLACED THRESHOLD- A threshold that is located at a point on the runway other 
 
 [[T#^JFRIUkVTSE9MRA|(See THRESHOLD.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JERJU1BMQUNFRCBU
 

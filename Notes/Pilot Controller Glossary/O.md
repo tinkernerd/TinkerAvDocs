@@ -19,7 +19,7 @@ OBSTACLE DEPARTURE PROCEDURE (ODP)- A preplanned instrument flight rule (IFR) de
 
 [[S#^JFNUQU5EQVJEIElO|(See STANDARD INSTRUMENT DEPARTURE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE9CU1RBQ0xFIERF
 
@@ -203,7 +203,7 @@ OPTION APPROACH- An approach requested and conducted by a pilot which will resul
 
 [[C#^JENMRUFSRUQgRk9S|(See CLEARED FOR THE OPTION.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE9QVElPTiBBUFBS
 
@@ -313,7 +313,7 @@ OUTER MARKER- A marker beacon at or near the glideslope intercept altitude of an
 
 [[M#^JE1BUktFUiBCRUFD|(See MARKER BEACON.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JE9VVEVSIE1BUktF
 

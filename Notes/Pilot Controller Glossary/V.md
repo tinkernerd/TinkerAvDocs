@@ -213,7 +213,7 @@ VISIBILITY- The ability, as determined by atmospheric conditions and expressed i
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 <!-- -->
 
@@ -299,7 +299,7 @@ VISUAL FLIGHT RULES- Rules that govern the procedures for conducting flight unde
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFZJU1VBTCBGTElH
 
@@ -368,7 +368,7 @@ VMC-
 
 VOICE SWITCHING AND CONTROL SYSTEM (VSCS)- A computer controlled switching system that provides air traffic controllers with all voice circuits (air to ground and ground to ground) necessary for air traffic control.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFZPSUNFIFNXSVRD
 
@@ -380,7 +380,7 @@ VOR- A ground-based electronic navigation aid transmitting very high frequency n
 
 [[N#^JE5BVklHQVRJT05B|(See NAVIGATIONAL AID.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFZPUg
 
@@ -406,7 +406,7 @@ VORTAC- A navigation aid providing VOR azimuth, TACAN azimuth, and TACAN distanc
 
 [[V#^JFZPUg|(See VOR.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFZPUlRBQw
 
@@ -420,7 +420,7 @@ VORTICES- Circular patterns of air created by the movement of an airfoil through
 
 [[W#^JFdBS0UgVFVSQlVM|(See WAKE TURBULENCE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFZPUlRJQ0VT
 
@@ -434,7 +434,7 @@ VOT- A ground facility which emits a test signal to check VOR receiver accuracy.
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFZPVA
 

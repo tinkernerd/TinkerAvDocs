@@ -61,7 +61,7 @@ RADAR APPROACH- An instrument approach procedure which utilizes Precision Approa
 
 [[R#^JFJBREFSIEFQUFJP|(See ICAO term RADAR APPROACH.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFJBREFSIEFQUFJP
 
@@ -173,7 +173,7 @@ RADAR FLIGHT FOLLOWING- The observation of the progress of radar-identified airc
 
 [[R#^JFJBREFSIFNFUlZJ|(See RADAR SERVICE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFJBREFSIEZMSUdI
 
@@ -536,7 +536,7 @@ REMOTE AIRPORT INFORMATION SERVICE (RAIS)- A temporary service provided by facil
 
 REMOTE COMMUNICATIONS AIR/GROUND FACILITY- An unmanned VHF/UHF transmitter/receiver facility which is used to expand ARTCC air/ground communications coverage and to facilitate direct contact between pilots and controllers. RCAG facilities are sometimes not equipped with emergency frequencies 121.5 MHz and 243.0 MHz.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFJFTU9URSBDT01N
 
@@ -574,7 +574,7 @@ REPORTING POINT- A geographical location in relation to which the position of an
 
 [[R#^JFJFUE9SVElORyBQ|(See ICAO term REPORTING POINT.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -928,7 +928,7 @@ RUNWAY OVERRUN- In military aviation exclusively, a stabilized or paved area bey
 
 RUNWAY PROFILE DESCENT- An instrument flight rules (IFR) air traffic control arrival procedure to a runway published for pilot use in graphic and/or textual form and may be associated with a STAR. Runway Profile Descents provide routing and may depict crossing altitudes, speed restrictions, and headings to be flown from the en route structure to the point where the pilot will receive clearance for and execute an instrument approach procedure. A Runway Profile Descent may apply to more than one runway if so stated on the chart.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 

@@ -43,7 +43,7 @@ LAND AND HOLD SHORT OPERATIONS- Operations which include simultaneous takeoffs a
 
 [[P#^JFBBUkFMTEVMIFJV|(See PARALLEL RUNWAYS.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -79,7 +79,7 @@ LANDING DIRECTION INDICATOR- A device which visually indicates the direction in 
 
 [[T#^JFRFVFJBSEVEUk9O|(See TETRAHEDRON.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -180,7 +180,7 @@ LIGHTED AIRPORT- An airport where runway and obstruction lighting is available.
 
 [[A#^JEFJUlBPUlQgTElH|(See AIRPORT LIGHTING.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -188,7 +188,7 @@ LIGHTED AIRPORT- An airport where runway and obstruction lighting is available.
 
 LIGHT GUN- A handheld directional light signaling device which emits a brilliant narrow beam of white, green, or red light as selected by the tower controller. The color and type of light transmitted can be used to approve or disapprove anticipated pilot actions where radio communication is not available. The light gun is used for controlling traffic operating in the vicinity of the airport and on the airport movement area.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -236,7 +236,7 @@ LOCALIZER- The component of an ILS which provides course guidance to the runway.
 
 [[L#^JExPQ0FMSVpFUiBD|(See ICAO term LOCALIZER COURSE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JExPQ0FMSVpFUg
 
@@ -260,7 +260,7 @@ LOCALIZER OFFSET- An angular offset of the localizer aligned within 3° of the r
 
 LOCALIZER TYPE DIRECTIONAL AID (LDA)- A localizer with an angular offset that exceeds 3° of the runway alignment, used for nonprecision instrument approaches with utility and accuracy comparable to a localizer, but which are not part of a complete ILS.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JExPQ0FMSVpFUiBU
 
@@ -272,7 +272,7 @@ LOCALIZER TYPE DIRECTIONAL AID (LDA) PRECISION RUNWAY MONITOR (PRM) APPROACH- An
 
 [[S#^JFNJTVVMVEFORU9V|(See SIMULTANEOUS OFFSET INSTRUMENT APPROACH (SOIA).)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -280,7 +280,7 @@ LOCALIZER TYPE DIRECTIONAL AID (LDA) PRECISION RUNWAY MONITOR (PRM) APPROACH- An
 
 LOCALIZER USABLE DISTANCE- The maximum distance from the localizer transmitter at a specified altitude, as verified by flight inspection, at which reliable course information is continuously received.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -308,7 +308,7 @@ LONGITUDINAL SEPARATION- The longitudinal spacing of aircraft at the same altitu
 
 [[S#^JFNFUEFSQVRJT04|(See SEPARATION.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -316,7 +316,7 @@ LONGITUDINAL SEPARATION- The longitudinal spacing of aircraft at the same altitu
 
 LORAN- An electronic navigational system by which hyperbolic lines of position are determined by measuring the difference in the time of reception of synchronized pulse signals from two fixed transmitters. Loran A operates in the 1750-1950 kHz frequency band. Loran C and D operate in the 100-110 kHz frequency band. In 2010, the U.S. Coast Guard terminated all U.S. LORAN-C transmissions.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JExPUkFO
 
@@ -328,7 +328,7 @@ LOST COMMUNICATIONS- Loss of the ability to communicate by radio. Aircraft are s
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JExPU1QgQ09NTVVO
 
@@ -357,7 +357,7 @@ LOW ALTITUDE AIRWAY STRUCTURE- The network of airways serving aircraft operation
 
 [[A#^JEFJUldBWQ|(See AIRWAY.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JExPVyBBTFRJVFVE
 
@@ -375,7 +375,7 @@ LOW ALTITUDE AIRWAY STRUCTURE- The network of airways serving aircraft operation
 
 LOW APPROACH- An approach over an airport or runway following an instrument approach or a VFR approach including the go-around maneuver where the pilot intentionally does not make contact with the runway.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JExPVyBBUFBST0FD
 
@@ -385,7 +385,7 @@ LOW APPROACH- An approach over an airport or runway following an instrument appr
 
 LOW FREQUENCY (LF)- The frequency band between 30 and 300 kHz.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JExPVyBGUkVRVUVO
 

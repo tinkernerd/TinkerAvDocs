@@ -25,7 +25,7 @@ ABBREVIATED IFR FLIGHT PLANS- An authorization by ATC requiring pilots to submit
 
 [[V#^JFZGUi1PTi1UT1A|(See VFR-ON-TOP.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -252,7 +252,7 @@ ADVISORY FREQUENCY- The appropriate frequency to be used for Airport Advisory Se
 
 (Refer to ADVISORY CIRCULAR NO. 90-66.)
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -270,7 +270,7 @@ ADVISORY SERVICE- Advice and information provided by a facility to assist pilots
 
 [[T#^JFRSQUZGSUMgQURW|(See TRAFFIC ADVISORIES.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFEVklTT1JZIFNF
 
@@ -338,7 +338,7 @@ AERONAUTICAL BEACON- A visual NAVAID displaying flashes of white and/or colored 
 
 [[A#^JEFJUlBPUlQgUk9U|(See AIRPORT ROTATING BEACON.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFFUk9OQVVUSUNB
 
@@ -449,7 +449,7 @@ AIR CARRIER DISTRICT OFFICE- An FAA field office serving an assigned geographica
 
 AIR DEFENSE EMERGENCY- A military emergency condition declared by a designated authority. This condition exists when an attack upon the continental U.S., Alaska, Canada, or U.S. installations in Greenland by hostile aircraft or missiles is considered probable, is imminent, or is taking place.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -459,7 +459,7 @@ AIR DEFENSE IDENTIFICATION ZONE (ADIZ)- An area of airspace over land or water i
 
 Note: ADIZ locations and operating and flight plan requirements for civil aircraft operations are specified in 14 CFR Part 99.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFJUiBERUZFTlNF
 
@@ -489,7 +489,7 @@ AIR ROUTE TRAFFIC CONTROL CENTER (ARTCC)- A facility established to provide air 
 
 [[E#^JEVOIFJPVVRFIEFJ|(See EN ROUTE AIR TRAFFIC CONTROL SERVICES.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFJUiBST1VURSBU
 
@@ -501,7 +501,7 @@ AIR TAXI- Used to describe a helicopter/VTOL aircraft movement conducted above t
 
 [[H#^JEhPVkVSIFRBWEk|(See HOVER TAXI.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFJUiBUQVhJ
 
@@ -751,7 +751,7 @@ AIRCRAFT WAKE TURBULENCE CATEGORIES- For the purpose of Wake Turbulence Recatego
 
 [[S#^JFNJR01FVA|(See SIGMET.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -767,7 +767,7 @@ AIRPORT ADVISORY AREA- The area within ten miles of an airport without a control
 
 [[L#^JExPQ0FMIEFJUlBP|(See LOCAL AIRPORT ADVISORY.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFJUlBPUlQgQURW
 
@@ -868,7 +868,7 @@ AIRPORT ROTATING BEACON- A visual NAVAID operated at many airports. At civil air
 
 [[A#^JEFFUk9EUk9NRSBC|(See ICAO term AERODROME BEACON.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFJUlBPUlQgUk9U
 
@@ -983,7 +983,7 @@ AIRWAY- A Class E airspace area established in the form of a corridor, the cente
 
 [[0071 Designation of class a, b, c, d, and e airspace areas; air traffic service routes; and reporting points|(Refer to 14 CFR Part 71.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFJUldBWQ
 
@@ -1001,7 +1001,7 @@ AIRWAY \[ICAO\]- A control area or portion thereof established in the form of co
 
 AIRWAY BEACON- Used to mark airway segments in remote mountain areas. The light flashes Morse Code to identify the beacon site.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFJUldBWSBCRUFD
 
@@ -1099,7 +1099,7 @@ ALTIMETER SETTING- The barometric pressure reading used to adjust a pressure alt
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -1135,7 +1135,7 @@ ALTITUDE \[ICAO\]- The vertical distance of a level, a point or an object consid
 
 [[A#^JEFVVE9NQVRFRCBS|(See AUTOMATED RADAR TERMINAL SYSTEMS.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -1211,7 +1211,7 @@ APPROACH CLEARANCE- Authorization by ATC for a pilot to conduct an instrument ap
 
 [[I#^JElOU1RSVU1FTlQg|(See INSTRUMENT APPROACH PROCEDURE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
@@ -1237,7 +1237,7 @@ APPROACH CONTROL SERVICE- Air traffic control service provided by an approach co
 
 [[A#^JEFQUFJPQUNIIENP|(See ICAO term APPROACH CONTROL SERVICE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFQUFJPQUNIIENP
 
@@ -1443,7 +1443,7 @@ ARRESTING SYSTEM- A safety device consisting of two major components, namely, en
 
 [[A#^JEFCT1JU|(See ABORT.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -1965,7 +1965,7 @@ AUTOMATIC TERMINAL INFORMATION SERVICE- The continuous broadcast of recorded non
 
 (See ICAO term AUTOMATIC TERMINAL INFORMATION SERVICE.)
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEFVVE9NQVRJQyBU
 
@@ -2005,7 +2005,7 @@ AVIATION WEATHER SERVICE- A service provided by the National Weather Service (NW
 
 [[W#^JFdFQVRIRVIgQURW|(See WEATHER ADVISORY.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 

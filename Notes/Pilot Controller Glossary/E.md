@@ -69,7 +69,7 @@ EMERGENCY LOCATOR TRANSMITTER (ELT)- A radio transmitter attached to the aircraf
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEVNRVJHRU5DWSBM
 
@@ -95,7 +95,7 @@ EN ROUTE AIR TRAFFIC CONTROL SERVICES- Air traffic control service provided airc
 
 [[A#^JEFJUiBST1VURSBU|(See AIR ROUTE TRAFFIC CONTROL CENTER.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEVOIFJPVVRFIEFJ
 
@@ -105,7 +105,7 @@ EN ROUTE AIR TRAFFIC CONTROL SERVICES- Air traffic control service provided airc
 
 EN ROUTE AUTOMATION SYSTEM (EAS)- The complex integrated environment consisting of situation display systems, surveillance systems and flight data processing, remote devices, decision support tools, and the related communications equipment that form the heart of the automated IFR air traffic control system. It interfaces with automated terminal systems and is used in the control of en route IFR aircraft.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEVOIFJPVVRFIEFV
 
@@ -271,7 +271,7 @@ ETE-
 
 ***EXECUTE MISSED APPROACH-*** Instructions issued to a pilot making an instrument approach which means continue inbound to the missed approach point and execute the missed approach procedure as described on the Instrument Approach Procedure Chart or as previously assigned by ATC. The pilot may climb immediately to the altitude specified in the missed approach procedure upon making a missed approach. No turns should be initiated prior to reaching the missed approach point. When conducting an ASR or PAR approach, execute the assigned missed approach procedure immediately upon receiving instructions to “execute missed approach.”
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -279,7 +279,7 @@ ETE-
 
 ***EXPECT (ALTITUDE) AT (TIME) or (FIX)-*** Used under certain conditions to provide a pilot with an altitude to be used in the event of two-way communications failure. It also provides altitude information to assist the pilot in planning.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 

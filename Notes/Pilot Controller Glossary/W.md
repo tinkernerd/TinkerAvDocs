@@ -29,7 +29,7 @@ WAKE TURBULENCE- A phenomenon that occurs when an aircraft develops lift and for
 
 [[V#^JFZPUlRJQ0VT|(See VORTICES.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFdBS0UgVFVSQlVM
 

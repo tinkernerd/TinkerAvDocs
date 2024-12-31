@@ -23,7 +23,7 @@ CALL FOR RELEASE- Wherein the overlying ARTCC requires a terminal facility to in
 
 CALL UP- Initial voice contact between a facility and an aircraft, using the identification of the unit being called and the unit initiating the call.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -99,7 +99,7 @@ CENTER'S AREA- The specified airspace within which an air route traffic control 
 
 [[A#^JEFJUiBST1VURSBU|(See AIR ROUTE TRAFFIC CONTROL CENTER.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JENFTlRFUidTIEFS
 
@@ -125,7 +125,7 @@ CENTER WEATHER ADVISORY- An unscheduled weather advisory issued by Center Weathe
 
 [[S#^JFNJR01FVA|(See SIGMET.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -242,7 +242,7 @@ CIRCLE-TO-LAND MANEUVER- A maneuver initiated by the pilot to align the aircraft
 
 [[L#^JExBTkRJTkcgTUlO|(See LANDING MINIMUMS.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JENJUkNMRS1UTy1M
 
@@ -256,7 +256,7 @@ CIRCLE-TO-LAND MANEUVER- A maneuver initiated by the pilot to align the aircraft
 
 [[L#^JExBTkRJTkcgTUlO|(See LANDING MINIMUMS.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -408,7 +408,7 @@ CLEARANCE VOID TIME \[ICAO\]- A time specified by an air traffic control unit at
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -422,7 +422,7 @@ CLEARANCE VOID TIME \[ICAO\]- A time specified by an air traffic control unit at
 
 [[0091 General operating and flight rules|(Refer to 14 CFR Part 91.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -432,7 +432,7 @@ CLEARANCE VOID TIME \[ICAO\]- A time specified by an air traffic control unit at
 
 [[R#^JFJFUVVFU1QgRlVM|(See REQUEST FULL ROUTE CLEARANCE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -448,7 +448,7 @@ CLEARANCE VOID TIME \[ICAO\]- A time specified by an air traffic control unit at
 
 [[O#^JE9QVElPTiBBUFBS|(See OPTION APPROACH.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -478,7 +478,7 @@ CLEARWAY- An area beyond the takeoff runway under the control of airport authori
 
 [[S#^JFNQRUNJQUwgVkZS|(See SPECIAL VFR CONDITIONS.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -671,7 +671,7 @@ COMPASS ROSE- A circle, graduated in degrees, printed on some charts or marked o
 
 COMPOSITE FLIGHT PLAN- A flight plan which specifies VFR operation for one portion of flight and IFR for another portion. It is used primarily in military operations.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -756,7 +756,7 @@ CONTACT-
 
 ***CONTACT APPROACH-* ^JENPTlRBQ1QgQVBQ**An approach wherein an aircraft on an IFR flight plan, having an air traffic control authorization, operating clear of clouds with at least 1 mile flight visibility and a reasonable expectation of continuing to the destination airport in those conditions, may deviate from the instrument approach procedure and proceed to the destination airport by visual reference to the surface. This approach will only be authorized when requested by the pilot and the reported ground visibility at the destination airport is at least 1 statute mile.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -893,7 +893,7 @@ CONTROLLER PILOT DATA LINK COMMUNICATIONS (CPDLC)- A two-way digital communicati
 
 [[S#^JFNJR01FVA|(See SIGMET.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -1000,7 +1000,7 @@ CRITICAL ENGINE- The engine which, upon failure, would most adversely affect the
 
 [[A#^JEFMVElUVURFIFJF|(See ALTITUDE RESTRICTION.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 

@@ -4,7 +4,6 @@ tags:
   - aviation
   - dash/personal
 banner: https://calaero.edu/wp-content/uploads/2018/07/Small-Plane-Take-Off.jpg
-cssclasses: []
 category: Aviation
 type: Dashboard
 ---
@@ -32,7 +31,7 @@ _|_|______________
   */     |     \*
   /      |      \
 */       |       \*
-```
+````
 
 ---
 
@@ -41,22 +40,41 @@ _|_|______________
 ---
 
 ### [[Aviation Weather]]
+
 ---
 
 ### 🗺️ **Charts and Navigation**
 
-- [[Sectional Charts]]
+- [[Charts]]
 - [[VFR and IFR Waypoints]]
-- [[Airport Diagrams]]
+- [[Airport Diagrams]] 
+- [[Navigation]]
 
 ---
 
 ### 📝 **Regulations and Procedures**
 
-- [[FAR (Federal Aviation Regulations)]]
-- [[AIM (Aeronautical Information Manual)]]
+- [[FAR]]
+- [[AIM]]
 - [[NOTAMs (Notices to Airmen)]]
 - [[Pilot-Controller Glossary]]
+- [[Airspace]]
+- [[ATC]]
+- [[Air Traffic]]
+
+---
+
+### 🚨 **Emergencies and Safety**
+
+- [[Emergencies]]
+- [[Aviation Safety Tips]] - add
+- [[Safety]]
+
+---
+
+### 🩺 **Medical Information**
+
+- [[Medical]]
 
 ---
 
@@ -78,9 +96,14 @@ _|_|______________
 
 ---
 
+### 🎉 **Aviation Events**
+
+- [[Aviation Events]]
+
+---
+
 ### 🛬 **Additional Sections**
 
-- [[Aviation Safety Tips]]
 - [[Famous Flights and Case Studies]]
 - [[Aircraft Systems Basics]]
 

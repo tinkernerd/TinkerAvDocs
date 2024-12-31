@@ -25,7 +25,7 @@ TACTICAL AIR NAVIGATION (TCAN)- An ultra-high frequency electronic rho-theta air
 
 [[V#^JFZPUlRBQw|(See VORTAC.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFRBQ1RJQ0FMIEFJ
 
@@ -198,7 +198,7 @@ TAXI- The movement of an airplane under its own power on the surface of an airpo
 
 (Refer to 14 CFR Section 135.100.)
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -351,7 +351,7 @@ TETRAHEDRON- A device normally located on uncontrolled airports and used as a la
 
 [[S#^JFNFR01FTlRFRCBD|(See SEGMENTED CIRCLE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFRFVFJBSEVEUk9O
 
@@ -624,7 +624,7 @@ TOWER- A terminal facility that uses air/ground communications, visual signaling
 
 [[A#^JEFFUk9EUk9NRSBD|(See ICAO term AERODROME CONTROL TOWER.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFRPV0VS
 
@@ -943,7 +943,7 @@ TRANSPONDER- The airborne radar beacon receiver/transmitter portion of the Air T
 
 [[T#^JFRSQU5TUE9OREVS|(See ICAO term TRANSPONDER.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFRSQU5TUE9OREVS
 

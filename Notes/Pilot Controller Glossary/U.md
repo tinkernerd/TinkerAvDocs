@@ -71,7 +71,7 @@ UNICOM- A nongovernment communication facility which may provide airport informa
 
 [[C#^JENIQVJUIFNVUFBM|(See CHART SUPPLEMENT U.S.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFVOSUNPTQ
 

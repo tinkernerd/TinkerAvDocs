@@ -199,7 +199,7 @@ Note: Civil twilight ends in the evening when the center of the sun's disk is 
 
 ***NO GYRO APPROACH-* ^JE5PIEdZUk8gQVBQ**A radar approach/vector provided in case of a malfunctioning gyro-compass or directional gyro. Instead of providing the pilot with headings to be flown, the controller observes the radar track and issues control instructions “turn right/left” or “stop turn” as appropriate.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 

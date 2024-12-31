@@ -7,4 +7,4 @@ chapter: chapter10
 Helicopter Operations
 
 - [[AIM - Chapter 10 - Section 1]]
--  [[AIM - Chapter 10 - Section 2]]
+- [[AIM - Chapter 10 - Section 2]]

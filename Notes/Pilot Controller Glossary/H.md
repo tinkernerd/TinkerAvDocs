@@ -197,7 +197,7 @@ HOLD PROCEDURE- A predetermined maneuver which keeps aircraft within a specified
 
 [[H#^JEhPTERJTkcgRklY|(See HOLDING FIX.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEhPTEQgUFJPQ0VE
 
@@ -211,7 +211,7 @@ HOLDING FIX- A specified fix identifiable to a pilot by NAVAIDs or visual refere
 
 [[V#^JFZJU1VBTCBIT0xE|(See VISUAL HOLDING.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEhPTERJTkcgRklY
 
@@ -291,7 +291,7 @@ HOVER TAXI- Used to describe a helicopter/VTOL aircraft movement conducted above
 
 [[H#^JEhPVkVSIENIRUNL|(See HOVER CHECK.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JEhPVkVSIFRBWEk
 

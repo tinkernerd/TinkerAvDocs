@@ -134,7 +134,7 @@ SEARCH AND RESCUE- A service which seeks missing aircraft and assists those foun
 
 [[R#^JFJFU0NVRSBDT09S|(See RESCUE COORDINATION CENTER.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFNFQVJDSCBBTkQg
 
@@ -206,7 +206,7 @@ SEE AND AVOID- When weather conditions permit, pilots operating IFR or VFR are r
 
 SEGMENTED CIRCLE- A system of visual indicators designed to provide traffic pattern information at airports without operating control towers.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFNFR01FTlRFRCBD
 
@@ -347,7 +347,7 @@ SID-
 
 SIDESTEP MANEUVER- A visual maneuver accomplished by a pilot at the completion of an instrument approach to permit a straight-in landing on a parallel runway not more than 1,200 feet to either side of the runway to which the instrument approach was conducted.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -365,7 +365,7 @@ SIDESTEP MANEUVER- A visual maneuver accomplished by a pilot at the completion o
 
 [[S#^JFNJR01FVCBJTkZP|(See ICAO term SIGMET INFORMATION.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 </div>
 
@@ -397,7 +397,7 @@ SIGNIFICANT POINT- A point, whether a named intersection, a NAVAID, a fix derive
 
 SIMPLIFIED DIRECTIONAL FACILITY (SDF)- A NAVAID used for nonprecision instrument approaches. The final approach course is similar to that of an ILS localizer except that the SDF course may be offset from the runway, generally not more than 3 degrees, and the course may be wider than the localizer, resulting in a lower degree of accuracy.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFNJTVBMSUZJRUQg
 
@@ -437,7 +437,7 @@ SIMULTANEOUS ILS APPROACHES- An approach system permitting simultaneous ILS appr
 
 [[P#^JFBBUkFMTEVMIFJV|(See PARALLEL RUNWAYS.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFNJTVVMVEFORU9V
 
@@ -447,7 +447,7 @@ SIMULTANEOUS ILS APPROACHES- An approach system permitting simultaneous ILS appr
 
 SIMULTANEOUS OFFSET INSTRUMENT APPROACH (SOIA)- An instrument landing system comprised of an ILS PRM, RNAV PRM or GLS PRM approach to one runway and an offset LDA PRM with glideslope or an RNAV PRM or GLS PRM approach utilizing vertical guidance to another where parallel runway spaced less than 3,000 feet and at least 750 feet apart. The approach courses converge by 2.5 to 3 degrees. Simultaneous close parallel PRM approach procedures apply up to the point where the approach course separation becomes 3,000 feet, at the offset MAP. From the offset MAP to the runway threshold, visual separation by the aircraft conducting the offset approach is utilized.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFNJTVVMVEFORU9V
 
@@ -723,7 +723,7 @@ STANDARD INSTRUMENT DEPARTURE (SID)- A preplanned instrument flight rule (IFR) a
 
 [[O#^JE9CU1RBQ0xFIERF|(See OBSTACLE DEPARTURE PROCEDURE.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFNUQU5EQVJEIElO
 
@@ -1001,7 +1001,7 @@ SURPIC- A description of surface vessels in the area of a Search and Rescue inci
 
 SURVEILLANCE APPROACH- An instrument approach wherein the air traffic controller issues instructions, for pilot compliance, based on aircraft position in relation to the final approach course (azimuth), and the distance (range) from the end of the runway as displayed on the controller's radar scope. The controller will provide recommended altitudes on final approach if requested by the pilot.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFNVUlZFSUxMQU5D
 

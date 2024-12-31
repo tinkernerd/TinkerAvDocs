@@ -1,7 +1,5 @@
 # TinkerAvDocs - Aviation Notes Repository
 
-![TinkerAvDocs Banner](https://media.tinkernerd.dev/github/tinkeravdocs-banner.jpg)
-
 Welcome to **TinkerAvDocs**, your comprehensive repository for aviation notes and resources. Whether you're a student pilot, an experienced aviator, or simply curious about aviation, this repository is designed to provide you with structured, accessible, and practical information about all things aviation.
 
 ## 📚 Overview
@@ -65,7 +63,7 @@ This repository includes information from various trusted aviation sources and c
 - **AOPA**: Aviation safety and educational resources.
 - **GitHub Repositories**: Inspiration and content from open-source aviation-related projects.
 - **Community Contributions**: Inputs and suggestions from pilots and aviation enthusiasts.
-- Thank you @Kognise for the https://github.com/kognise/obsidian-aviation repo
+- Thank you [@Kognise](https://github.com/kognise) for the https://github.com/kognise/obsidian-aviation repo
 
 If you'd like to suggest additional sources or have any concerns about content attribution, please reach out via the contact methods below.
 
@@ -77,13 +75,14 @@ Contributions are welcome! If you have suggestions, corrections, or new topics t
 
 Check out the [CONTRIBUTING.md](CONTRIBUTING.md) file for more details.
 
+
 ## 📜 License
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
 
 ## 📫 Contact
 For questions or feedback, reach out via:
 - **GitHub Issues**: [Submit an issue](https://github.com/tinkernerd/TinkerAvDocs/issues)
-- **Email**: me@tinkernerd.dev
+- **Email**: howdy@tinkernerd.dev
 
 ---
 

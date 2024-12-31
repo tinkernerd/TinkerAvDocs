@@ -25,7 +25,7 @@ PAN-PAN- The international radio-telephony urgency signal. When repeated three t
 
 [[M#^JE1BWURBWQ|(See MAYDAY.)]]
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFBBTi1QQU4
 
@@ -125,7 +125,7 @@ PHOTO RECONNAISSANCE- Military activity that requires locating individual photo 
 
 PILOT BRIEFING- A service provided by the FSS to assist pilots in flight planning. Briefing items may include weather information, NOTAMS, military activities, flow control information, and other items as requested.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFBJTE9UIEJSSUVG
 
@@ -143,7 +143,7 @@ PILOT IN COMMAND- The pilot responsible for the operation and safety of an aircr
 
 PILOT WEATHER REPORT- A report of meteorological phenomena encountered by aircraft in flight.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFBJTE9UIFdFQVRI
 
@@ -213,7 +213,7 @@ POLAR TRACK STRUCTURE- A system of organized routes between Iceland and Alaska w
 
 POSITION REPORT- A report over a known location as transmitted by an aircraft to ATC.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFBPU0lUSU9OIFJF
 
@@ -314,7 +314,7 @@ Note: The abbreviation “PAR” is also used to denote preferential arrival r
 
 (See ICAO term PRECISION APPROACH RADAR.)
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFBSRUNJU0lPTiBB
 
@@ -342,7 +342,7 @@ PRECISION OBSTACLE FREE ZONE (POFZ)- An 800 foot wide by 200 foot long area cent
 
 PRECISION RUNWAY MONITOR (PRM) SYSTEM- Provides air traffic controllers monitoring the NTZ during simultaneous close parallel PRM approaches with precision, high update rate secondary surveillance data. The high update rate surveillance sensor component of the PRM system is only required for specific runway or approach course separation. The high resolution color monitoring display, Final Monitor Aid (FMA) of the PRM system, or other FMA with the same capability, presents NTZ surveillance track data to controllers along with detailed maps depicting approaches and no transgression zone and is required for all simultaneous close parallel PRM NTZ monitoring operations.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFBSRUNJU0lPTiBS
 
@@ -428,7 +428,7 @@ PRM-
 
 PRM APPROACH- An instrument approach procedure titled ILS PRM, RNAV PRM, LDA PRM, or GLS PRM conducted to parallel runways separated by less than 4,300 feet and at least 3,000 feet where independent closely spaced approaches are permitted.  Use of an enhanced display with alerting, a No Transgression Zone (NTZ), secondary monitor frequency, pilot PRM training, and publication of an Attention All Users Page are required for all PRM approaches.  Depending on the runway spacing, the approach courses may be parallel or one approach course must be offset. PRM procedures are also used to conduct Simultaneous Offset Instrument Approach (SOIA) operations.  In SOIA, one straight-in ILS PRM, RNAV PRM, GLS PRM, and one offset LDA PRM, RNAV PRM or GLS PRM approach are utilized.  PRM procedures are terminated and a visual segment begins at the offset approach missed approach point where the minimum distance between the approach courses is 3000 feet. Runway spacing can be as close as 750 feet.
 
-[[00 Index|(Refer to AIM.)]]
+[[AIM|(Refer to AIM.)]]
 
 ^JFBSTSBBUFBST0FD
 
