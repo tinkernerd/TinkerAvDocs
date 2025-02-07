@@ -1,5 +1,10 @@
 # TinkerAvDocs - Aviation Notes Repository
 
+> ⚠️ **This project is temporarily on hold!** ⚠️
+> 
+> I don't have the time or energy to update this right now but I will get back to it soon. Or I'm working on it, just taking my time
+
+
 Welcome to **TinkerAvDocs**, your comprehensive repository for aviation notes and resources. Whether you're a student pilot, an experienced aviator, or simply curious about aviation, this repository is designed to provide you with structured, accessible, and practical information about all things aviation.
 
 ## 📚 Overview
@@ -22,15 +27,6 @@ The content is designed to be a helpful companion for your aviation journey.
 - **Visual Aids:** Includes links to banners and media for better understanding.
 - **Continuously Updated:** Regular additions and improvements.
 
-## 🗂️ Repository Structure
-```
-TinkerAvDocs/
-├── Notes/               # Individual topic notes (e.g., Airspace.md, Weather.md)
-├── Media/               # Images and banners used in the notes
-├── README.md            # Repository documentation (this file)
-├── LICENSE              # Repository license
-└── CONTRIBUTING.md      # Guidelines for contributing to the project
-```
 
 ## 🚀 Getting Started
 ### Clone the Repository
