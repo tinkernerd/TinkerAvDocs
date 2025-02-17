@@ -36,6 +36,7 @@ _|_|______________
 ```
 
 ## ✈️ Explore Your Aviation Notes:
+- [[Quote Book]]
 ### Main Topics
 - [[Air Traffic Control]]
 - [[Aircraft Systems]]
