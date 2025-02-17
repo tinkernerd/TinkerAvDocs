@@ -61,7 +61,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap5_sect
 
     <em>**REFERENCE-**</em>
 
-    <em> [[AIM -  Types of Charts Available#^9-1-4|AIM, Paragraph 9-1-4]], General Description of Each Chart Series </em>
+    <em> [[AIM - Types of Charts Available#^9-1-4|AIM, Paragraph 9-1-4]], General Description of Each Chart Series </em>
 
     </div>
 6.  When requesting a preflight briefing, identify yourself as a pilot and provide the following:

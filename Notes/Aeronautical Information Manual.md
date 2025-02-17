@@ -38,7 +38,7 @@ tags:
 	- [[AIM - Radio Communications Phraseology and Techniques]]
 	- [[AIM - Airport Operations]]
 	- [[AIM - ATC Clearances and Aircraft Separation]]
-	- [[AIM -  Surveillance Systems]]
+	- [[AIM - Surveillance Systems]]
 	- [[AIM - Operational Policy-Procedures for Reduced Vertical Separation Minimum (RVSM) in the Domestic U.S., Alaska, Offshore Airspace and the San Juan FIR]]
 	- [[AIM - Operational Policy-Procedures for the Gulf of Mexico 50 NM Lateral Separation Initiative]]
 	
@@ -70,7 +70,7 @@ tags:
 	- [[AIM - Fitness for Flight]]
 
 - Chapter 9. Aeronautical Charts and Related Publications
-	- [[AIM -  Types of Charts Available]]
+	- [[AIM - Types of Charts Available]]
 
 - Chapter 10. Helicopter Operations
 	- [[AIM - Helicopter IFR Operations]]

@@ -9029,7 +9029,7 @@ At least one approved automated external defibrillator, legally marketed in the 
 
 \(b\) C-46 forward and aft baggage compartments must meet, as a minimum, Class B requirements of this section or be placarded in a manner to preclude their use as cargo or baggage compartments.
 
-8\. *Proof of compliance.* The demonstration of compliance required by [[#§121.223 Proof of compliance with Volume 3/G Air carriers and operators for compensation or hire certification and operations/0121 Operating requirements domestic, flag, and supplemental operations §121.221 Fire precautions. §121.221 .|§121.223]] is not required for C-46 airplanes in which—
+8\. *Proof of compliance.* The demonstration of compliance required by [[#§121.223 Proof of compliance with 0121 Operating requirements domestic, flag, and supplemental operations §121.221 Fire precautions. §121.221 .|§121.223]] is not required for C-46 airplanes in which—
 
 \(1\) The main cabin conforms to Class A cargo compartment requirements of [[0121 Operating requirements  domestic, flag, and supplemental operations#§121.219   Ventilation.|§121.219]]; and
 

@@ -65,7 +65,7 @@ Source: [https://www.faa.gov/air_traffic/publications/atpubs/aim_html/chap3_sect
 
             <em>**REFERENCE-**</em>
 
-            <em> [[AIM -  Types of Charts Available#^9-1-5|AIM, Paragraph 9-1-5]], Subparagraph a, National Geospatial-Intelligence Agency (NGA) Products </em>
+            <em> [[AIM - Types of Charts Available#^9-1-5|AIM, Paragraph 9-1-5]], Subparagraph a, National Geospatial-Intelligence Agency (NGA) Products </em>
 
             </div>
 5.  The FLIP contains charts and narrative descriptions of these routes. To obtain this publication contact:  

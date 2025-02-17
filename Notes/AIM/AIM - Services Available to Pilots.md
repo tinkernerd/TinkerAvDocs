@@ -620,7 +620,7 @@ FAA Order 1600.69, FAA Facility Security Management Program </em>
 
         <em>**NOTE-**</em>
 
-        <em>Pilots should refer to [[AIM -  Surveillance Systems#^4-5-7|AIM, Paragraph 4-5-7]], Automatic Dependent Surveillance - Broadcast (ADS-B) Services, for a complete description of operating limitations and procedures.</em>
+        <em>Pilots should refer to [[AIM - Surveillance Systems#^4-5-7|AIM, Paragraph 4-5-7]], Automatic Dependent Surveillance - Broadcast (ADS-B) Services, for a complete description of operating limitations and procedures.</em>
 
         </div>
 2.  **Transponder/ADS-B Code Designation**

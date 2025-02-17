@@ -261,7 +261,7 @@ This subpart sets out certification requirements and prescribes the content of o
 
 \(i\) The name and address of each stockholder who owns 5 percent or more of the total voting stock of the corporation, and if that stockholder is not the sole beneficial owner of the stock, the name and address of each beneficial owner. An individual is considered to own the stock owned, directly or indirectly, by or for his or her spouse, children, grandchildren, or parents.
 
-\(ii\) The name and address of each director and each officer and each person employed or who will be employed in a management position described in [[#§119.65 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0121 Operating requirements domestic, flag, and supplemental operations.md part 121 of this chapter .|§119.65]] and 119.69, as applicable.
+\(ii\) The name and address of each director and each officer and each person employed or who will be employed in a management position described in [[#§119.65 Management personnel required for operations conducted under 0121 Operating requirements domestic, flag, and supplemental operations part 121 of this chapter .|§119.65]] and 119.69, as applicable.
 
 \(iii\) The name and address of each person directly or indirectly controlling or controlled by the applicant and each person under direct or indirect control with the applicant.
 
@@ -269,7 +269,7 @@ This subpart sets out certification requirements and prescribes the content of o
 
 \(i\) The name and address of each person having a financial interest therein and the nature and extent of that interest.
 
-\(ii\) The name and address of each person employed or who will be employed in a management position described in [[#§119.65 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0121 Operating requirements domestic, flag, and supplemental operations.md part 121 of this chapter .|§119.65]] and 119.69, as applicable.
+\(ii\) The name and address of each person employed or who will be employed in a management position described in [[#§119.65 Management personnel required for operations conducted under 0121 Operating requirements domestic, flag, and supplemental operations part 121 of this chapter .|§119.65]] and 119.69, as applicable.
 
 \(c\) In addition, each applicant for the original issue of an operating certificate under paragraph (a) of this section must submit with the application a signed statement showing—
 
@@ -367,7 +367,7 @@ The Air Carrier Certificate or Operating Certificate includes—
 
 \(2\) The applicant previously held an Air Carrier Certificate or Operating Certificate which was revoked;
 
-\(3\) The applicant intends to or fills a key management position listed in [[#§119.65 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0121 Operating requirements domestic, flag, and supplemental operations.md part 121 of this chapter .|§119.65]](a) or [[#§119.69 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft.md part 135 of this chapter .|§119.69]](a), as applicable, with an individual who exercised control over or who held the same or a similar position with a certificate holder whose certificate was revoked, or is in the process of being revoked, and that individual materially contributed to the circumstances causing revocation or causing the revocation process;
+\(3\) The applicant intends to or fills a key management position listed in [[#§119.65 Management personnel required for operations conducted under 0121 Operating requirements domestic, flag, and supplemental operations part 121 of this chapter .|§119.65]](a) or [[#§119.69 Management personnel required for operations conducted under 0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft part 135 of this chapter .|§119.69]](a), as applicable, with an individual who exercised control over or who held the same or a similar position with a certificate holder whose certificate was revoked, or is in the process of being revoked, and that individual materially contributed to the circumstances causing revocation or causing the revocation process;
 
 \(4\) An individual who will have control over or have a substantial ownership interest in the applicant had the same or similar control or interest in a certificate holder whose certificate was revoked, or is in the process of being revoked, and that individual materially contributed to the circumstances causing revocation or causing the revocation process; or
 
@@ -783,7 +783,7 @@ The Air Carrier Certificate or Operating Certificate includes—
 
 ### §119.67   Management personnel: Qualifications for operations conducted under [[0121 Operating requirements  domestic, flag, and supplemental operations|part 121 of this chapter]].
 
-\(a\) To serve as Director of Operations under [[#§119.65 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0121 Operating requirements domestic, flag, and supplemental operations.md part 121 of this chapter .|§119.65]](a) a person must—
+\(a\) To serve as Director of Operations under [[#§119.65 Management personnel required for operations conducted under 0121 Operating requirements domestic, flag, and supplemental operations part 121 of this chapter .|§119.65]](a) a person must—
 
 \(1\) Hold an airline transport pilot certificate;
 
@@ -795,13 +795,13 @@ The Air Carrier Certificate or Operating Certificate includes—
 
 \(ii\) In the case of a person with previous experience as a Director of Operations, have at least 3 years experience as pilot in command of a large airplane operated under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]], if the certificate holder operates large airplanes. If the certificate holder uses only small airplanes in its operation, the experience may be obtained in either large or small airplanes.
 
-\(b\) To serve as Chief Pilot under [[#§119.65 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0121 Operating requirements domestic, flag, and supplemental operations.md part 121 of this chapter .|§119.65]](a) a person must hold an airline transport pilot certificate with appropriate ratings for at least one of the airplanes used in the certificate holder's operation and:
+\(b\) To serve as Chief Pilot under [[#§119.65 Management personnel required for operations conducted under 0121 Operating requirements domestic, flag, and supplemental operations part 121 of this chapter .|§119.65]](a) a person must hold an airline transport pilot certificate with appropriate ratings for at least one of the airplanes used in the certificate holder's operation and:
 
 \(1\) In the case of a person becoming a Chief Pilot for the first time ever, have at least 3 years experience, within the past 6 years, as pilot in command of a large airplane operated under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]], if the certificate holder operates large airplanes. If the certificate holder uses only small airplanes in its operation, the experience may be obtained in either large or small airplanes.
 
 \(2\) In the case of a person with previous experience as a Chief Pilot, have at least 3 years experience, as pilot in command of a large airplane operated under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]], if the certificate holder operates large airplanes. If the certificate holder uses only small airplanes in its operation, the experience may be obtained in either large or small airplanes.
 
-\(c\) To serve as Director of Maintenance under [[#§119.65 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0121 Operating requirements domestic, flag, and supplemental operations.md part 121 of this chapter .|§119.65]](a) a person must—
+\(c\) To serve as Director of Maintenance under [[#§119.65 Management personnel required for operations conducted under 0121 Operating requirements domestic, flag, and supplemental operations part 121 of this chapter .|§119.65]](a) a person must—
 
 \(1\) Hold a mechanic certificate with airframe and powerplant ratings;
 
@@ -815,7 +815,7 @@ The Air Carrier Certificate or Operating Certificate includes—
 
 \(ii\) Repairing airplanes in a certificated airframe repair station that is rated to maintain airplanes in the same category and class of airplane as the certificate holder uses.
 
-\(d\) To serve as Chief Inspector under [[#§119.65 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0121 Operating requirements domestic, flag, and supplemental operations.md part 121 of this chapter|§119.65.]](a) a person must—
+\(d\) To serve as Chief Inspector under [[#§119.65 Management personnel required for operations conducted under 0121 Operating requirements domestic, flag, and supplemental operations part 121 of this chapter .|§119.65.]](a) a person must—
 
 \(1\) Hold a mechanic certificate with both airframe and powerplant ratings, and have held these ratings for at least 3 years;
 
@@ -877,7 +877,7 @@ The Air Carrier Certificate or Operating Certificate includes—
 
 ### §119.71   Management personnel: Qualifications for operations conducted under [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]].
 
-\(a\) To serve as Director of Operations under [[#§119.69 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft.md part 135 of this chapter .|§119.69]](a) for a certificate holder conducting any operations for which the pilot in command is required to hold an airline transport pilot certificate a person must hold an airline transport pilot certificate and either:
+\(a\) To serve as Director of Operations under [[#§119.69 Management personnel required for operations conducted under 0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft part 135 of this chapter .|§119.69]](a) for a certificate holder conducting any operations for which the pilot in command is required to hold an airline transport pilot certificate a person must hold an airline transport pilot certificate and either:
 
 \(1\) Have at least 3 years supervisory or managerial experience within the last 6 years in a position that exercised operational control over any operations conducted under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]]; or
 
@@ -887,7 +887,7 @@ The Air Carrier Certificate or Operating Certificate includes—
 
 \(ii\) In the case of a person with previous experience as a Director of Operations, have at least 3 years experience, as pilot in command of an aircraft operated under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]].
 
-\(b\) To serve as Director of Operations under [[#§119.69 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft.md part 135 of this chapter .|§119.69]](a) for a certificate holder that only conducts operations for which the pilot in command is required to hold a commercial pilot certificate, a person must hold at least a commercial pilot certificate. If an instrument rating is required for any pilot in command for that certificate holder, the Director of Operations must also hold an instrument rating. In addition, the Director of Operations must either—
+\(b\) To serve as Director of Operations under [[#§119.69 Management personnel required for operations conducted under 0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft part 135 of this chapter .|§119.69]](a) for a certificate holder that only conducts operations for which the pilot in command is required to hold a commercial pilot certificate, a person must hold at least a commercial pilot certificate. If an instrument rating is required for any pilot in command for that certificate holder, the Director of Operations must also hold an instrument rating. In addition, the Director of Operations must either—
 
 \(1\) Have at least 3 years supervisory or managerial experience within the last 6 years in a position that exercised operational control over any operations conducted under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]]; or
 
@@ -897,19 +897,19 @@ The Air Carrier Certificate or Operating Certificate includes—
 
 \(ii\) In the case of a person with previous experience as a Director of Operations, have at least 3 years experience as pilot in command of an aircraft operated under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]].
 
-\(c\) To serve as Chief Pilot under [[#§119.69 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft.md part 135 of this chapter .|§119.69]](a) for a certificate holder conducting any operation for which the pilot in command is required to hold an airline transport pilot certificate a person must hold an airline transport pilot certificate with appropriate ratings and be qualified to serve as pilot in command in at least one aircraft used in the certificate holder's operation and:
+\(c\) To serve as Chief Pilot under [[#§119.69 Management personnel required for operations conducted under 0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft part 135 of this chapter .|§119.69]](a) for a certificate holder conducting any operation for which the pilot in command is required to hold an airline transport pilot certificate a person must hold an airline transport pilot certificate with appropriate ratings and be qualified to serve as pilot in command in at least one aircraft used in the certificate holder's operation and:
 
 \(1\) In the case of a person becoming a Chief Pilot for the first time ever, have at least 3 years experience, within the past 6 years, as pilot in command of an aircraft operated under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]].
 
 \(2\) In the case of a person with previous experience as a Chief Pilot, have at least 3 years experience as pilot in command of an aircraft operated under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]].
 
-\(d\) To serve as Chief Pilot under [[#§119.69 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft.md part 135 of this chapter .|§119.69]](a) for a certificate holder that only conducts operations for which the pilot in command is required to hold a commercial pilot certificate, a person must hold at least a commercial pilot certificate. If an instrument rating is required for any pilot in command for that certificate holder, the Chief Pilot must also hold an instrument rating. The Chief Pilot must be qualified to serve as pilot in command in at least one aircraft used in the certificate holder's operation. In addition, the Chief Pilot must:
+\(d\) To serve as Chief Pilot under [[#§119.69 Management personnel required for operations conducted under 0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft part 135 of this chapter .|§119.69]](a) for a certificate holder that only conducts operations for which the pilot in command is required to hold a commercial pilot certificate, a person must hold at least a commercial pilot certificate. If an instrument rating is required for any pilot in command for that certificate holder, the Chief Pilot must also hold an instrument rating. The Chief Pilot must be qualified to serve as pilot in command in at least one aircraft used in the certificate holder's operation. In addition, the Chief Pilot must:
 
 \(1\) In the case of a person becoming a Chief Pilot for the first time ever, have at least 3 years experience, within the past 6 years, as pilot in command of an aircraft operated under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]].
 
 \(2\) In the case of a person with previous experience as a Chief Pilot, have at least 3 years experience as pilot in command of an aircraft operated under part 121 or [[0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft|part 135 of this chapter]].
 
-\(e\) To serve as Director of Maintenance under [[#§119.69 Management personnel required for operations conducted under Volume 3/G Air carriers and operators for compensation or hire certification and operations/0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft.md part 135 of this chapter .|§119.69]](a) a person must hold a mechanic certificate with airframe and powerplant ratings and either:
+\(e\) To serve as Director of Maintenance under [[#§119.69 Management personnel required for operations conducted under 0135 Operating requirements commuter and on demand operations and rules governing persons on board such aircraft part 135 of this chapter .|§119.69]](a) a person must hold a mechanic certificate with airframe and powerplant ratings and either:
 
 \(1\) Have 3 years of experience within the past 6 years maintaining aircraft as a certificated mechanic, including, at the time of appointment as Director of Maintenance, experience in maintaining the same category and class of aircraft as the certificate holder uses; or
 

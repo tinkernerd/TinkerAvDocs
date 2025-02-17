@@ -1007,7 +1007,7 @@ As a carrier, you must provide the following seating accommodations to a passeng
 
 \(d\) If you have already provided a seat to a passenger with a disability to furnish an accommodation required by this subpart, you must not (except in the circumstance described in
 
-[[#§382.85 What seating accommodations must carriers make to passengers in circumstances not covered by Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel §382.81 For which passengers must carriers make seating accommodations? §382.81 (a) through (d)?|§382.85]] (a)(2)(ii)) reassign that passenger to another seat in response to a subsequent request from another passenger with a disability, without the first passenger's consent.
+[[#§382.85 What seating accommodations must carriers make to passengers in circumstances not covered by 0382 Nondiscrimination on the basis of disability in air travel §382.81 For which passengers must carriers make seating accommodations? §382.81 (a) through (d)?|§382.85]] (a)(2)(ii)) reassign that passenger to another seat in response to a subsequent request from another passenger with a disability, without the first passenger's consent.
 
 \(e\) You must never deny transportation to any passenger in order to provide accommodations required by this subpart.
 
