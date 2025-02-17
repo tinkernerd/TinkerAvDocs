@@ -16,7 +16,7 @@
               "state": {
                 "file": "🏠 Homepage.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "pinned": true,
               "icon": "lucide-file",
@@ -24,17 +24,17 @@
             }
           },
           {
-            "id": "c9de9743edf945b0",
+            "id": "b57ebc0d0005a04f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Todo.md",
-                "mode": "source",
+                "file": "Notes/Aircraft Systems.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Todo"
+              "title": "Aircraft Systems"
             }
           }
         ],
@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Pasted image 20210820155913",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -95,7 +95,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 306
   },
   "right": {
     "id": "993c486477069ae0",
@@ -111,7 +111,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Todo.md",
+                "file": "Notes/Aircraft Systems.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -139,7 +139,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Todo"
+              "title": "Graph of Aircraft Systems"
             }
           },
           {
@@ -200,7 +200,8 @@
               "title": "Broken links"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "52f53211c4fa6d83",
@@ -212,10 +213,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Todo.md"
+                "file": "Notes/Aircraft Systems.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Todo"
+              "title": "File properties for Aircraft Systems"
             }
           },
           {
@@ -261,7 +262,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 356
+    "width": 365
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -281,46 +282,53 @@
       "yet-another-obsidian-synchronizer:YAOS": false
     }
   },
-  "active": "c9de9743edf945b0",
+  "active": "b57ebc0d0005a04f",
   "lastOpenFiles": [
-    "🏠 Homepage.md",
-    "Todo.md",
-    "Notes/Quote Book.md",
-    "LICENSE.md",
-    "Notes/FAR/Volume 1/A Definitions and general requirements/0000 Index.md",
-    "Notes/FAR/Volume 3/I Airports/0161 Notice and approval of airport noise and access restrictions.md",
-    "Notes/FAR/Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0119 Certification  air carriers and commercial operators.md",
-    "Notes/FAR/Volume 1/C Aircraft/0043 Maintenance, preventive maintenance, rebuilding, and alteration.md",
-    "Notes/FAR/Volume 2/F Air traffic and general operating rules/0091 General operating and flight rules.md",
-    "Notes/FAR/Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0135 Operating requirements  commuter and on demand operations and rules governing persons on board such aircraft.md",
-    "Notes/FAR/Volume 2/D Airmen/0063 Certification  flight crewmembers other than pilots.md",
-    "Notes/FAR/Volume 3/G Air carriers and operators for compensation or hire  certification and operations/0121 Operating requirements  domestic, flag, and supplemental operations.md",
-    "Notes/FAR/Volume 4/D Special regulations/0382 Nondiscrimination on the basis of disability in air travel.md",
-    "Notes/FAR/FAR - Volume 1.md",
+    "Notes/Airport Diagrams.md",
+    "Notes/Aircraft Systems.md",
     "Notes/Air Traffic Control.md",
-    "Notes/Quick Notes/2025-02-16 19-23.md",
+    "Notes/Quote Book.md",
+    "🏠 Homepage.md",
+    "Notes/C203 Home.md",
+    "Notes/C203/C203 Week 6.md",
+    "Notes/C203/C203 Week 4.md",
+    "Notes/C203/C203 Week 3.md",
+    "Notes/C203/C203 Week 1.md",
+    "Notes/C203/C203 Home.md",
+    "Assets/assets/T101_3_019.png",
+    "Assets/assets/T101_2_041.png",
+    "Assets/assets/T101_2_019.png",
+    "Assets/assets/T101_2_002.png",
+    "Assets/assets/T101_1_007.png",
+    "Assets/assets/T101_1_001.png",
+    "Assets/assets/Pasted image 20220814224430.png",
+    "Notes/T101/T101T.md",
+    "Notes/T101/T101 Week 5.md",
+    "Assets/assets/T101_1_019.png",
+    "Assets/assets/T101_1_021.png",
+    "Assets/assets/T101_2_001.png",
+    "Assets/assets/V T101 Week 2.md",
+    "Assets/assets/V T101 Humidity.md",
+    "Assets/assets/V PlaneLauncher.md",
+    "Assets/assets/V 101 The Nature of Flight.md",
+    "Assets/assets/V 101 Composition of the Atmosphere.md",
+    "Assets/assets/QB/Q00003.md",
+    "Assets/assets/QB/Q00002.md",
+    "Assets/Attachments/Slides/TemplateBuild.md",
+    "Assets/Attachments/Slides/SSG Slides Test.md",
+    "Assets/Attachments/Slides/Obelisk Writeable.md",
+    "Assets/Attachments/Slides/JBSlideTest.md",
+    "Assets/Attachments/Slides/Inside Slides Test.md",
+    "Assets/Attachments/Slides/Another Slideshow example.md",
     "Assets/Attachments/FAA_Order_6850.2C.pdf",
-    "Notes/Quick Notes",
-    "Assets/Attachments/ac_90-66c.pdf",
-    "Notes/AIM/AIM - Surveillance Systems.md",
-    "Notes/AIM/AIM - Types of Charts Available.md",
-    "Notes/AIM/AIM - Air Navigation and Obstruction Lighting.md",
-    "Notes/Chapter 1 Questions to review.md",
-    "Assets/Templates/Quick Note Template.md",
-    "Assets/Templates/Default Template.md",
-    "Assets/Templates/Insertion Template/Callout Template.md",
-    "Assets/Templates/Insertion Template/Callout Template - Old.md",
-    "Assets/Templates/Insertion Template/Checkbox Template.md",
-    "Assets/Templates/Insertion Template/Table of Contents Template.md",
-    "Assets/Attachments/distance formula.png",
-    "Assets/Attachments/section formula proof.png",
-    "Excalidraw",
-    "Notes/Aviation/Glossary",
-    "Notes/Aviation/untitled folder",
-    "Notes/Electrical",
-    "Notes/Recipes",
-    "Notes/Photography",
-    "Notes/Networking",
-    "pixel-banner-images/pixel-banner-image.png"
+    "Notes/ATAT/T110/PDF/T110T SSGW01.pdf",
+    "Notes/ATAT/T110/PDF/T110T Intro.pdf",
+    "Notes/ATAT/T110/PDF/Math Support for Faculty_updated.pdf",
+    "Notes/ATAT/T110/PDF/ATAT_110.pdf",
+    "Faculty/Student/Content/ATAV/V203",
+    "Faculty/Student/Content/ATAV",
+    "Faculty/Student/Content",
+    "Faculty/Student",
+    "Faculty"
   ]
 }

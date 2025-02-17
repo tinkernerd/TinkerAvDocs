@@ -14,7 +14,7 @@ banner_y: 0.54
 category: Aviation
 type: Dashboard/L1
 ---
-# ✈️ Welcome to Aviation Adventures! ✈️
+![[HomeBanner 1.png]]
 ___
 
 Welcome, future aviators, to the **Aviation Adventures** section! Whether you're gunning for that coveted Private Pilot's License (PPL) or just want to geek out over sectional charts, weather reports, or airport codes, you're in the right place. Buckle up, set your altimeter, and prepare for takeoff!
@@ -49,14 +49,15 @@ _|_|______________
 - [[Aviation Navigation]]
 - [[Notices to Airmen]]
 - [[Safety Within Aviation]]
-- [[Private Pilot License (PPL) Notes]]
 
 ---
 ### Books
 - [[Aeronautical Information Manual]]
 - [[Federal Aviation Regulations]]
-
 ---
+
+### Courses
+- [[Private Pilot License (PPL) Notes]]
 
 Fly safe, and remember: the sky isn't the limit—it’s just the beginning!
 
